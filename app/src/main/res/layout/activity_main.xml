@@ -38,8 +38,8 @@
         android:text="Shopping On One Finger" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/button_intent"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="60dp"
         android:text="Button" />
 </LinearLayout>
